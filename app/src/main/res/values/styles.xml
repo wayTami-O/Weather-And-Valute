@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="textTown">
+
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">18dp</item>
+
+    </style>
+
+    <style name="infoWeather">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+
+</resources>
